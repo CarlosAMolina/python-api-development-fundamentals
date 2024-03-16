@@ -15,10 +15,10 @@ make test
 
 ## Endpoints
 
-HTT Methods | Functions           | URL examples
-------------|---------------------|--------------------------------
-GET         | Get all the recipes | http://localhost:5000/recipes
-GET         | Get one particular  | http://localhost:5000/recipes/2
+HTT Methods | Functions                 | URL examples
+------------|---------------------------|--------------------------------
+GET         | Get all the recipes       | http://localhost:5000/recipes
+GET         | Get one particular recipe | http://localhost:5000/recipes/2
 
 ## Resources
 
